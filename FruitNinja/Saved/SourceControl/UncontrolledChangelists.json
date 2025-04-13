@@ -9,7 +9,16 @@
 				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Player.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/FruitNinjaGameMode.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Fruit.uasset",
-				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/FruitManager.uasset"
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/FruitManager.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Bomb.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/BombMat.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/BombMat.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/Fuse.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/Fruit.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/Fruit1.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/Fruit2.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/Mats/Background.uasset",
+				"Z:/IGMProfile/Documents/Unreal Projects/FruitNinja/FruitNinja/FruitNinja/Content/FruitNinja/StartButton.uasset"
 			]
 		}
 	]
